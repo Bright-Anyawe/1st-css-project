@@ -3,12 +3,54 @@ body {
     height: 100%;
 }
 
-.sec-01 {
+header {
+    padding: 12px;
+    font-size: 24px;
+    color: #F9FAF8;
+}
 
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+}
+
+ul,p {
+    display: flex;
+    gap: 23px;
+    font-size: 18px;
+    color: #E5E7EB;
+    list-style: none;
+}
+
+.main_text {
+    font-size: 48px;
+    font-weight: 800;
+ color: #F9FAF8;
+}
+
+.sub-head {
+    
+}
+
+.sec-01 {
+background-color: #1f2937;
+height: 550px;
+}
+
+
+.intro_img {
+    width: 400px;
+    height: 200px;
 }
 
 .sec-02 {
 
+}
+
+.img_01 {
+    width: 200px;
+    height: 100px;
 }
 
 .sec-03 {
@@ -16,5 +58,5 @@ body {
 }
 
 .sec-04 {
-    
+
 }

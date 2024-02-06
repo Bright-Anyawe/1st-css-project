@@ -16,7 +16,7 @@ header {
     padding: 12px;
 }
 
-ul,p {
+.s_01,p {
     display: flex;
     gap: 23px;
     font-size: 18px;
@@ -56,7 +56,7 @@ height: 550px;
     margin-right: 139px;
 }
 
-figcaption,a  {
+.fig_00,.a  {
     color: #F9FAF6;
     text-decoration: none;
 }

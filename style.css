@@ -29,6 +29,10 @@ ul,p {
  color: #F9FAF8;
 }
 
+.subtext {
+    max-width: 427px;
+}
+
 .sub-head {
     
 }
@@ -42,6 +46,7 @@ height: 550px;
 .intro_img {
     width: 400px;
     height: 200px;
+    float: right;
 }
 
 .sec-02 {

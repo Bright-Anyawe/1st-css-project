@@ -7,6 +7,7 @@ header {
     padding: 12px;
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 600;
 }
 
 .header {
@@ -29,12 +30,13 @@ ul,p {
  color: #F9FAF8;
 }
 
-.subtext {
+.subtext,p {
     max-width: 427px;
 }
 
 .sub-head {
-    
+    padding-left: 190px;
+    padding-top: 90px;
 }
 
 .sec-01 {
@@ -44,10 +46,38 @@ height: 550px;
 
 
 .intro_img {
-    width: 400px;
-    height: 200px;
+    display: flex;
+    flex-direction: column;
+    width: 454px;
+    height: 234px;
     float: right;
+    margin-top: -60px;
+    margin-right: 139px;
 }
+
+figcaption,a  {
+    color: #F9FAF6;
+    text-decoration: none;
+}
+
+button {
+    
+    font-weight: 800;
+    color: #F9FAF6;
+    border: none;
+    background: #3882F6;
+    padding: 16px;
+   
+    width: 8rem;
+    height: 33px;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-family: serif;
+    font-size: large;
+}
+
 
 .sec-02 {
 

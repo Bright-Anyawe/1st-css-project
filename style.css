@@ -32,6 +32,7 @@ ul,p {
 
 .subtext,p {
     max-width: 427px;
+    font-style: normal;
 }
 
 .sub-head {
@@ -84,8 +85,23 @@ button {
 }
 
 .img_01 {
-    width: 200px;
-    height: 100px;
+    width: 500px;
+    height: 300px;
+}
+
+.img_02 {
+    width: 500px;
+    height: 300px;
+}
+
+.img_03 {
+    width: 500px;
+    height: 300px;
+}
+
+.img_04 {
+    width: 500px;
+    height: 300px;
 }
 
 .sec-03 {

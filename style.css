@@ -130,8 +130,10 @@ article {
 }
 
 .span-container {
-    color: #040a12f5;
-}
+    display: flex;
+    font-weight: 700;
+    justify-content: flex-end;
+    color: #040a12f5;}
 
 
 .sec-04 {

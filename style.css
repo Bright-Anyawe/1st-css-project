@@ -102,6 +102,11 @@ p {
     gap: 1rem;
 }
 
+.second_figure figcaption {
+    font-weight: 500;
+    color: #060f20;
+}
+
 .images {
 
     width: 250px;
